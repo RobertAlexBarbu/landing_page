@@ -11,6 +11,9 @@ body{
     max-width: 100%;
     min-height: 80vh;
 }
+.section3, .section4 {
+    min-height: 50vh;
+}
 
 
 .section1 {
@@ -150,13 +153,13 @@ body{
     justify-content: flex-end;
 }
 .section4 .box {
-    height: 70vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .footer {
-    height: 15vh;
+    height: 10vh;
     background-color: rgb(21, 63, 21);
     color: white;
     font-size: 20px;
